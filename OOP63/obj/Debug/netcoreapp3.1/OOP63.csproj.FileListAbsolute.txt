@@ -1,0 +1,14 @@
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\bin\Debug\netcoreapp3.1\OOP63.exe
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\bin\Debug\netcoreapp3.1\OOP63.deps.json
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\bin\Debug\netcoreapp3.1\OOP63.runtimeconfig.json
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\bin\Debug\netcoreapp3.1\OOP63.runtimeconfig.dev.json
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\bin\Debug\netcoreapp3.1\OOP63.dll
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\bin\Debug\netcoreapp3.1\OOP63.pdb
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\obj\Debug\netcoreapp3.1\OOP63.csproj.AssemblyReference.cache
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\obj\Debug\netcoreapp3.1\OOP63.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\obj\Debug\netcoreapp3.1\OOP63.AssemblyInfoInputs.cache
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\obj\Debug\netcoreapp3.1\OOP63.AssemblyInfo.cs
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\obj\Debug\netcoreapp3.1\OOP63.csproj.CoreCompileInputs.cache
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\obj\Debug\netcoreapp3.1\OOP63.dll
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\obj\Debug\netcoreapp3.1\OOP63.pdb
+D:\Kuliah\Project\VisualStudio\OOP63\OOP63\obj\Debug\netcoreapp3.1\OOP63.genruntimeconfig.cache
